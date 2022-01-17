@@ -1,6 +1,6 @@
 # Recriação da página inicial do Instagram
 
-### 🧐 Este repositório tem como objetivo armazenar um mini projeto feito com ajuda da Digital Innovation One para a recriação da página inicial do Instagram, a princípio de estudar e praticar FlexBox do CSS.
+### 🧐 Esse repositório tem como objetivo armazenar um mini projeto feito com ajuda da Digital Innovation One para a recriação da página inicial do Instagram, a princípio de estudar e praticar FlexBox do CSS.
 
 <img alt="Print do projeto" title="Recriação da página inicial do Instagram" src="./img/banner.jpg" />
 
